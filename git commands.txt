@@ -1,0 +1,16 @@
+GIT COMMANDS
+1. git init-initialized a folder 
+2. git add (filename/./*)
+	.-all files except the ones with git ignore
+	*- all files
+	filename- specific file
+3. git commit -m "message"- Commits all changes to your repo
+4. For first time users add a configuration
+git config--global user.email"email"
+git config--global user.name"username"
+4. git remote add origin-adds files to a specified remote location remote location
+
+TO UPDATE
+git add.
+git commit -m"message"
+git push -u origin master
