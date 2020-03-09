@@ -1,0 +1,23 @@
+#portfolio{
+    background: blue;
+    color: white;
+}
+.rightContent p{
+    margin-left: 2px;
+
+}
+.topContent{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(/images/background.jpg);
+}
+.topLeft h1{
+    color: white;
+}
+.topLeft h1{
+    margin-left: 15px;
+}
+.button{
+    margin-left: 15px;
+}
+.imageHolder{
+    margin-left: 15px;
+}
